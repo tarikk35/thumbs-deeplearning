@@ -6,3 +6,5 @@ But this model lacks consistency because most of it is based on randomness and s
 - Dropout
 - Data Augmentation
 - Weight Regularization
+
+I couldn't include my dataset because all photos included my face. (shy person intensifies)
